@@ -13,7 +13,7 @@
 ----------------------
 
 ```bash
-source <(curl -fsSL https://raw.githubusercontent.com/oldratlee/useful-scripts/master/test-cases/self-installer.sh)
+source <(curl -fsSL https://raw.githubusercontent.com/iqiancheng/useful-scripts/master/test-cases/installer.sh)
 ```
 
 更多下载&使用方式，参见[下载使用](docs/install.md)。
